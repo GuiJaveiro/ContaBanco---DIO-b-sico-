@@ -1,2 +1,2 @@
-# ContaBanco---DIO-b-sico-
+# ContaBanco-DIO-basico
 Exercício básico da DIO
